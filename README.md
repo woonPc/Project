@@ -1,7 +1,7 @@
 <h3><b>Time Table</b></h3>
 </br>
 
-<p>TimeTable apps is an application design for students to record their timetable in moblie phone. The application aims to make students' timetable can be accessed anywhere and anytime. Timetable printed in paper is easily getting damage and lost. By recording it in mobile phone, students can prevent from missing their timetable and late for class. There are two pages in the application, which are 'Add class' and 'List classes'. Changing menu can be perform by clicking 'hamburger' icon at the top left corner. In the 'Add class' page, students just need to input time, day and venue of their classes into the application. All the information just need to insert once and can be used for every week. In the 'List classes' page, all the classes from Monday to Friday will be listed down.</p>
+<p>TimeTable apps is an application designing for students to record their timetable in moblie phone. The application aims to make students' timetable can be accessed anywhere and anytime. Timetable printed in paper is easily getting damage and lost. By recording it in mobile phone, students can prevent from missing their timetable and late for class. There are two pages in the application, which are 'Add class' and 'List classes'. Changing menu can be perform by clicking 'hamburger' icon at the top left corner. In the 'Add class' page, students just need to input time, day and venue of their classes into the application. All the information just need to insert once and can be used for every week. In the 'List classes' page, all the classes from Monday to Friday will be listed down.</p>
 
   </br><h2><b>Developers Team Members</b></h2>
   
@@ -44,7 +44,9 @@
   <ul>
  
   <br>
-  <li></li>
+  <li>Insert time, day and venue of classes.</li>
+  <li>View and list classes according to the days (Monday to Friday).</li>
+  <li>Reset the timetable when new semester started.</li>
   </ul>
 
 
