@@ -44,8 +44,8 @@
   <ul>
  
   <br>
-  <li>Insert time, day and venue of classes.</li>
-  <li>View and list classes according to the days (Monday to Friday).</li>
+  <li>Insert time, day and name of classes.</li>
+  <li>View and list classes according to the days (Sunday to Saturday).</li>
   <li>Reset the timetable when new semester started.</li>
   </ul>
 
