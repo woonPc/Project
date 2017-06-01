@@ -1,7 +1,7 @@
 <h3><b>TimeTable Apps</b></h3>
 </br>
 
-<p>TimeTable Apps is an application designing for students to record their timetable in moblie phone. The application aims to make students' timetable can be accessed anywhere and anytime. Timetable printed in paper is easily getting damage and lost. By recording it in mobile phone, students can prevent from missing their timetable and late for class. There are three pages in the application, which are 'Timetable', 'Add New Activity' and 'Reset Timetable'. Changing menu can be perform by clicking 'hamburger' icon at the top left corner. In the 'Add New Activity'page, students just need to select time, day and key in the activity name into the application. All the information just need to insert once and can be used for every week. In the 'Reset Timetable' page, students can update their timetable. In the 'Timetable' page, all the classes from Sunday to Saturday will be listed down.</p>
+<p>TimeTable Apps is an application designing for students to record their timetable in moblie phone. The application aims to make students' timetable can be accessed anywhere and anytime. Timetable printed in paper is easily getting damage and lost. By recording it in mobile phone, students can prevent from missing their timetable and late for class. There are three pages in the application, which are 'Timetable', 'Add New Activity' and 'Reset Timetable'. Changing menu can be perform by clicking 'hamburger' icon at the top left corner. In the 'Add New Activity'page, students just need to select day, time and key in the activity name into the application. All the information just need to insert once and can be used for every week. In the 'Reset Timetable' page, students can update their timetable. In the 'Timetable' page, all the classes from Sunday to Saturday will be listed down.</p>
 
   </br><h2><b>Developers Team Members</b></h2>
   
@@ -44,7 +44,7 @@
   <ul>
  
   <br>
-  <li>Insert time, day and name of classes.</li>
+  <li>Insert day, time and name of classes.</li>
   <li>View and list classes according to the days (Sunday to Saturday).</li>
   <li>Reset the timetable when new semester started.</li>
   </ul>
