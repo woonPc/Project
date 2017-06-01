@@ -13,7 +13,7 @@
   <th>NAME</th>
   </tr>
   <tr>
-  <td>B031410028</td>
+  <td>B031410027</td>
   <td>WOON KUNG CHUNG</td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@
   <td>TEE PEI YA</td>
   </tr>
   <tr>
-  <td>B031510028</td>
+  <td>B031510128</td>
   <td>YANG SHWU ENN</td>
   </tr>
   <tr>
