@@ -18,7 +18,7 @@
   </tr>
   <tr>
   <td>B031410136</td>
-  <td>TAN LUNG CHOK</td>
+  <td>TAN LUN CHOK</td>
   </tr>
   <tr>
   <td>B031410134</td>
@@ -44,11 +44,7 @@
   <ul>
  
   <br>
-  <li>Add tasks into the bucket list.</li>
-  <li>Finish tasks in the bucket list.</li>
-  <li>Update tasks name from the bucket list.</li>
-  <li>View completed tasks (History).</li>
-  <li>Date & Time of tasks will automatic filled based on server date and time or from mobile if no internet access.</li>
+  <li></li>
   </ul>
 
 
