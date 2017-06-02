@@ -1,0 +1,27 @@
+<ion-view title="Add New Activity" id="page2">
+  <ion-content padding="true" class="has-header">
+    <form id="addNewActivity-form2" class="list">
+      <label class="item item-select" id="addNewActivity-select1" name="actDay">
+        <span class="input-label">Select Day</span>
+        <select id="dateInput" name="dateInput">
+          <option value="Sunday">Sunday</option>
+          <option value="Monday">Monday</option>
+          <option value="Tuesday">Tuesday</option>
+          <option value="Wednesday">Wednesday</option>
+          <option value="Thursday">Thursday</option>
+          <option value="Friday">Friday</option>
+          <option value="Saturday">Saturday</option>
+        </select>
+		
+      </label>
+      <label class="item item-input" id="addNewActivity-input3" name="actTime">
+        <span class="input-label">Select Time</span>
+        <input id="timeInput" type="time" placeholder="">
+      </label>
+      <label class="item item-input" id="addNewActivity-input1" name="actName">
+        <input id ="actInput" type="text" placeholder="Your Activity Here">
+      </label>
+    </form>
+    <button id="addNewActivity-button1" class="button button-positive button-block">Add</button>
+  </ion-content>
+</ion-view>
